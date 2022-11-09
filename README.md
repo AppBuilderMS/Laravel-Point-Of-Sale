@@ -1,6 +1,6 @@
 <p align="center"><img src="logo-repo.png" width="300"></p>
 
-## About Laravel
+## About Laravel Point Of Sale
 
 Laravel Point Of Sale is an application containing add, edit, and delete products and ring up orders, printing receipts and also supporting multiple languages.
 
